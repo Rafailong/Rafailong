@@ -1,6 +1,6 @@
 # Hi, I'm Rafa.
 
-1. I **live and love** in México! :mexico:
+1. I **live in and love** México! :mexico:
 2. I am a functional programming advocate.
 3. Hope to learn Haskell some day :monocle_face:
 
